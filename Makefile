@@ -1,3 +1,3 @@
 all: hello
 
-hello: hello.o
+hello: hello.oC:\Users\yibada\hello
